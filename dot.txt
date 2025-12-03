@@ -1,0 +1,25 @@
+{
+  "values": [
+    {"id": 110, "values": [
+      {"id": 261, "values": [
+        {"id": 238, "title": "0", "value": "", "values": [
+          {"id": 345, "title": "3", "value": ""}
+        ]}
+      ]}
+    ]},
+    {"id": 234, "values": [
+      {"id": 653, "values": [
+        {"id": 230, "title": "0", "value": "", "values": [
+          {"id": 234, "title": "0", "value": ""}
+        ]}
+      ]}
+    ]},
+    {"id": 690, "values": [
+      {"id": 5321, "values": [
+        {"id": 5322, "title": "6", "value": "", "values": [
+          {"id": 5323, "title": "0", "value": ""}
+        ]}
+      ]}
+    ]}
+  ]
+}
